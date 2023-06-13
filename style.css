@@ -1,0 +1,13 @@
+p :first-child{
+    border: 1px solid black;
+ 
+}
+p :last-child{
+    background-color: red;
+}
+h1.note{
+    background-color: yellow;
+}
+h4 span{
+    background-color: green;
+}
